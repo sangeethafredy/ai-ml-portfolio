@@ -9,6 +9,8 @@ This folder contains notebooks implementing fundamental machine learning algorit
 | [Linear_Regression.ipynb](Linear_Regression.ipynb) | Linear Regression | California Housing |
 | [Logistic_Regression.ipynb](Logistic_Regression.ipynb) | Logistic Regression | Iris (setosa vs virginica) |
 | [Support_Vector_Classifier.ipynb](Support_Vector_Classifier.ipynb) | Linear SVC (C=1 vs C=1000) | Iris (setosa vs versicolor) |
+| [Bagging.ipynb](Bagging.ipynb) | Bagging with linear regression | California Housing |
+| [KMeans_Clustering.ipynb](KMeans_Clustering.ipynb) | K-Means clustering from scratch | Iris (petal length, sepal width) |
 
 ## Requirements
 
